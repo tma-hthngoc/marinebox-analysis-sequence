@@ -1,0 +1,15 @@
+C:\Users\PhamHoangTKiet\Desktop\Wallem\RQA\MarineBoxAnalysis\MarineBoxAnalysis\bin\Debug\MarineBoxAnalysis.exe.config
+C:\Users\PhamHoangTKiet\Desktop\Wallem\RQA\MarineBoxAnalysis\MarineBoxAnalysis\bin\Debug\MarineBoxAnalysis.exe
+C:\Users\PhamHoangTKiet\Desktop\Wallem\RQA\MarineBoxAnalysis\MarineBoxAnalysis\bin\Debug\MarineBoxAnalysis.pdb
+C:\Users\PhamHoangTKiet\Desktop\Wallem\RQA\MarineBoxAnalysis\MarineBoxAnalysis\obj\x86\Debug\MarineBoxAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\PhamHoangTKiet\Desktop\Wallem\RQA\MarineBoxAnalysis\MarineBoxAnalysis\obj\x86\Debug\MarineBoxAnalysis.exe
+C:\Users\PhamHoangTKiet\Desktop\Wallem\RQA\MarineBoxAnalysis\MarineBoxAnalysis\obj\x86\Debug\MarineBoxAnalysis.pdb
+C:\Users\Admin\Desktop\MarineBoxAnalysis\MarineBoxAnalysis\bin\Debug\MarineBoxAnalysis.exe.config
+C:\Users\Admin\Desktop\MarineBoxAnalysis\MarineBoxAnalysis\obj\x86\Debug\MarineBoxAnalysis.exe
+C:\Users\Admin\Desktop\MarineBoxAnalysis\MarineBoxAnalysis\obj\x86\Debug\MarineBoxAnalysis.pdb
+C:\Users\umineko\Desktop\MarineBoxAnalysis\MarineBoxAnalysis\MarineBoxAnalysis\bin\Debug\MarineBoxAnalysis.exe.config
+C:\Users\umineko\Desktop\MarineBoxAnalysis\MarineBoxAnalysis\MarineBoxAnalysis\bin\Debug\MarineBoxAnalysis.exe
+C:\Users\umineko\Desktop\MarineBoxAnalysis\MarineBoxAnalysis\MarineBoxAnalysis\bin\Debug\MarineBoxAnalysis.pdb
+C:\Users\umineko\Desktop\MarineBoxAnalysis\MarineBoxAnalysis\MarineBoxAnalysis\obj\x86\Debug\MarineBoxAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\umineko\Desktop\MarineBoxAnalysis\MarineBoxAnalysis\MarineBoxAnalysis\obj\x86\Debug\MarineBoxAnalysis.exe
+C:\Users\umineko\Desktop\MarineBoxAnalysis\MarineBoxAnalysis\MarineBoxAnalysis\obj\x86\Debug\MarineBoxAnalysis.pdb
