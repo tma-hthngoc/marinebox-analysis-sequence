@@ -135,6 +135,9 @@ namespace PingTest
                         IPNetwork += Environment.NewLine + index.ToString() + ". " + reply.Address.ToString();
                         index += 1;
                     }
+                    else {
+                        IPNetwork += Environment.NewLine + "Skipped: " + string.Concat(baseIP, cnt.ToString());
+                    }
                     cnt += 1;
                 }
                 PingNetwork.DestroyPingers();
